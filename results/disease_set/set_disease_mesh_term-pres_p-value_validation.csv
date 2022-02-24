@@ -1,4 +1,4 @@
 ,set_value
-ctd.pathway_related_to_disease,0.025974025974025976
-disgenet.genes_related_to_disease,0.03196803196803197
-disgenet.variants_related_to_disease,0.01098901098901099
+ctd.pathway_related_to_disease,0.022977022977022976
+disgenet.genes_related_to_disease,0.025974025974025976
+disgenet.variants_related_to_disease,0.006993006993006993
